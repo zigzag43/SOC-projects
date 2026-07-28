@@ -52,7 +52,7 @@ Investigated web attacks and system activity using the Splunk **Boss of the SOC 
 - Malicious IP/domain identification
 - Full incident report
 
-**[→ View BOTSv1 Report](./BOTSv1%20Report)**
+**[→ View BOTSv1 Report](./BOTSV1%20Report)**
 
 </td>
 <td width="33%" valign="top">
